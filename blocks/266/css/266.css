@@ -1,0 +1,62 @@
+.type-266 .bg-green {
+  background-color: #24b6ac;
+  display: block;
+  height: 5px;
+  width: 50px;
+  margin-top: -3px;
+}
+.type-266 .distance {
+  margin-bottom: 60px;
+}
+.type-266 .line {
+  border-top: 1px solid #eee;
+}
+.type-266 .register h2 {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.type-266 .green i {
+  color: #24b6ac;
+}
+.type-266 .line-right {
+  border-right: 1px solid #eee;
+}
+.type-266 label {
+  color: #333333;
+  font-size: 14px;
+}
+.type-266 .form-group {
+  margin-right: 40px;
+}
+.type-266 .btn-send {
+  margin-top: 20px;
+  background: #24b6ac;
+  font-size: 13px;
+  padding: 6px 33px;
+  display: inline-block;
+}
+.type-266 .btn-send a {
+  color: #fff;
+  text-decoration: none;
+}
+.type-266 .btm-send a:hover {
+  cursor: pointer;
+}
+.type-266 textarea.message-control {
+  height: 150px;
+  border-radius: 0;
+}
+.type-266 .form-control-custom {
+  height: 34px;
+  border-radius: 0;
+}
+.type-266 .main-content h3 {
+  font-size: 18px;
+  font-weight: 700;
+}
+.type-266 .main-content p {
+  color: #6d6d6d;
+  font-size: 13px;
+  line-height: 23px;
+}

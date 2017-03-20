@@ -1,0 +1,17 @@
+.type-264 .navbar-header {
+  padding: 14px 0;
+}
+.type-264 .navbar-default {
+  background: none;
+  border: none;
+}
+.type-264 .navbar-nav {
+  font-size: 12px;
+}
+.type-264 .navbar-nav li a.active {
+  color: #24b6ac;
+}
+.type-264 .navbar-nav li a:hover {
+  cursor: pointer;
+  color: #24b6ac;
+}

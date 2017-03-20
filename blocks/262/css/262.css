@@ -1,0 +1,75 @@
+.type-262 .blog {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+.type-262 .distance {
+  margin: 0 0 30px;
+}
+.type-262 .bg-green {
+  background-color: #24b6ac;
+  display: block;
+  height: 5px;
+  width: 50px;
+  margin-top: -3px;
+}
+.type-262 .line {
+  border-top: 1px solid #eee;
+}
+.type-262 .thum-img {
+  border: 1px solid #eee;
+  overflow: hidden;
+  position: relative;
+  margin-top: 10px;
+}
+.type-262 .thum-img img {
+  width: 100%;
+}
+.type-262 .plus {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  right: -50px;
+  top: -50px;
+  background: #24b6ac;
+  transform: rotate(45deg);
+}
+.type-262 .plus:hover {
+  background: #24caac;
+}
+.type-262 .plus i {
+  color: #fff;
+  position: absolute;
+  left: 41%;
+  bottom: 10%;
+  font-size: 18px;
+}
+.type-262 .text {
+  margin-top: 30px;
+  color: #333333;
+  font-size: 15px;
+  font-weight: 700;
+}
+.type-262 .blog-content {
+  margin-bottom: 20px;
+  padding: 20px 30px;
+  border-bottom: 1px solid #eee;
+}
+.type-262 .content {
+  font-size: 13px;
+  line-height: 23px;
+}
+.type-262 .item-meta {
+  font-size: 14px;
+  padding: 2px 35px;
+  color: #8f8f8f;
+  font-size: 12px;
+}
+.type-262 .icon-clock {
+  float: left;
+  padding: 0 0 10px;
+}
+.type-262 .icon-plus {
+  float: right;
+  color: #24caac;
+  padding: 0 0 10px;
+}

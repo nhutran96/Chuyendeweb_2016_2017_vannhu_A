@@ -1,0 +1,33 @@
+.type-267 .owl-carousel .owl-wrapper-outer {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  margin-top: 50px;
+}
+.type-267 .owl-carousel .owl-item {
+  float: left;
+}
+.type-267 .owl-controls .owl-page,
+.type-267 .owl-controls .owl-buttons div {
+  cursor: pointer;
+}
+.type-267 img {
+  width: 50%;
+  height: 10%;
+}
+@media (max-width: 768px) {
+  .type-267 .carousel-inner {
+    margin-bottom: 15px;
+  }
+  .type-267 img {
+    width: 45% !important;
+  }
+  .type-267 .logo {
+    margin-bottom: 15px;
+  }
+}
+@media (max-width: 480px) {
+  .type-267 img {
+    width: 35% !important;
+  }
+}

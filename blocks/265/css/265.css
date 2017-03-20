@@ -1,0 +1,79 @@
+.type-265 .banner {
+  background: url(../images/12.jpg) no-repeat fixed;
+  padding: 110px 0;
+  background-size: cover;
+}
+.type-265 .categories {
+  text-align: center;
+  color: #fff;
+}
+.type-265 .categories h1 {
+  margin-bottom: 25px;
+  font-size: 60px;
+  font-weight: 700;
+}
+.type-265 .categories p {
+  font-size: 20px;
+  font-weight: 100;
+  margin-bottom: 50px;
+}
+.type-265 .khoangcach {
+  margin-top: 20px;
+}
+.type-265 .form-horizontal .has-feedback .form-control-feedback {
+  top: 11px;
+}
+.type-265 .icon-left {
+  left: 15px;
+}
+.type-265 .form-horizontal .form-group input {
+  padding-left: 54px;
+  border-radius: 0;
+  background: #292929;
+  height: 60px;
+  border: 1px solid #000;
+}
+.type-265 .form-horizontal .form-group {
+  margin-left: 0;
+  margin-right: 0;
+}
+.type-265 .has-feedback {
+  color: #fff;
+  font-size: 16px;
+}
+.type-265 .btn-group,
+.type-265 .btn-group-vertical {
+  height: 60px;
+  border-radius: 0;
+}
+.type-265 .dropdown-menu {
+  width: 100%;
+}
+.type-265 .dropdown-menu>li>a {
+  padding: 15px 20px;
+  border-bottom: 1px solid #eee;
+}
+.type-265 .btn-default:hover {
+  color: #000;
+  background: none;
+  border: none;
+}
+.type-265 .dropdown-menu>li>a:focus,
+.type-265 .dropdown-menu>li>a:hover {
+  background: #212121;
+  color: #fff;
+}
+.type-265 .btn-default {
+  border: none;
+  box-shadow: none;
+}
+.type-265 .btn-default.active,
+.type-265 .btn-default:active,
+.type-265 .open>.dropdown-toggle.btn-default {
+  background: #fff;
+  border: none;
+}
+.type-265 .btn-left-icon {
+  left: 15px;
+  position: absolute;
+}
